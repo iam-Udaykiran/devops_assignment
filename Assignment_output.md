@@ -1,35 +1,35 @@
-#OUTPUT:
+# OUTPUT:
 
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/35997d4ab47a76132f142bff2534728af12168b2/Screenshot%202025-12-06%20160058.png)
 
 
-#EC2 Instance: 
+# EC2 Instance: 
 
 
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/a418be5f6d0773866905b4b871e589bc98b5a1a2/Screenshot%202025-12-06%20160234.png)
 
-#Auto Scaling Groups:
+# Auto Scaling Groups:
 
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/13b0ce7a1cde19fbae55b429540a2d3f3ef6f0b0/Screenshot%202025-12-06%20160401.png)
 
-##Load Balancer: 
+# Load Balancer: 
 
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/40a7c95bfff908ed77cec0424077650ed9a7f3d5/Screenshot%202025-12-06%20160437.png)
 
 
-#Target Groups:
+# Target Groups:
 
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/1a7e354c5c30367b90459ee751b02109bbd77f7f/Screenshot%202025-12-06%20160506.png)
 
-#Vpc: 
+#  Vpc: 
 
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/e112228546a708be384954ad27c589de39bc8d24/Screenshot%202025-12-06%20160602.png)
 
-#Nat Gateways: 
+# Nat Gateways: 
 
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/b7bf8bebab1f8bbe4418bef0df6aa3aedfc10586/Screenshot%202025-12-06%20160639.png)
 
 
-#Execution:
+# Execution:
 
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/5beff708e0531391094727678f7ea4abc014f43c/Screenshot%202025-12-06%20161040.png)
