@@ -7,3 +7,4 @@ OUTPUT:
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/1a7e354c5c30367b90459ee751b02109bbd77f7f/Screenshot%202025-12-06%20160506.png)
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/e112228546a708be384954ad27c589de39bc8d24/Screenshot%202025-12-06%20160602.png)
 ![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/b7bf8bebab1f8bbe4418bef0df6aa3aedfc10586/Screenshot%202025-12-06%20160639.png)
+![image alt](https://github.com/iam-Udaykiran/devops_assignment/blob/5beff708e0531391094727678f7ea4abc014f43c/Screenshot%202025-12-06%20161040.png)
